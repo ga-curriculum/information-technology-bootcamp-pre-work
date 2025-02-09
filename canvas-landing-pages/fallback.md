@@ -17,7 +17,7 @@ This module contains the pre-work lessons for the Information Technology Bootcam
 | [Bootcamp Mindset](../bootcamp-mindset/README.md)                                   | 20 min | Get into the right mental framework to tackle the challenges of the course.                   |
 | [Fearless Feedback Culture](../fearless-feedback-culture/README.md)                 | 10 min | Understand the culture of feedback at General Assembly.                                       |
 | [The Life of an IT Professional](../the-life-of-an-it-professional/README.md)       | 20 min | Learn about the daily life, possible career path, and responsibilities of an IT professional. |
-| [Problem-Solving](../problem-solving/README.md)                                     | 20 min | Understand systematic problem-solving.                                                        |
+| [Problem Solving](../problem-solving/README.md)                                     | 20 min | Understand systematic problem solving.                                                        |
 | [Clear and Confident Communication](../clear-and-confident-communication/README.md) | 10 min | Learn how to start communicating effectively in a professional setting.                       |
 | [Wrap-Up](../wrap-up/README.md)                                                     |  5 min | Celebrate completing the pre-work.                                                            |
 | **Total content**                                                                  |   2 hr |                                                                                               |

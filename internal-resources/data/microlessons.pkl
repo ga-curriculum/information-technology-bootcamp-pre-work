@@ -38,7 +38,7 @@ theLifeOfAnItProfessional = new Template.Microlesson {
 }
 
 problemSolving = new Template.Microlesson {
-  friendlyName = "Problem-Solving"
+  friendlyName = "Problem Solving"
   dirName = "problem-solving"
   type = "Content"
   videoUrl = ""

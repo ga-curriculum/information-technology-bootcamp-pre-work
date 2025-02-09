@@ -62,7 +62,7 @@ Cloud computing involves delivering computing services over the internet from a 
 - Managing cloud platforms and services.
 - Designing and implementing cloud-based solutions.
 - Monitoring and optimizing cloud resources.
-- Ensuring data security and compliance.
+- Ensuring data security and compliance in the cloud.
 
 ### DevOps
 

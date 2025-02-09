@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Information Technology Bootcamp Pre-Work</span>
-  <span class="subhead">Problem-Solving</span>
+  <span class="subhead">Problem Solving</span>
 </h1>
 
 ## Solving problems for real people

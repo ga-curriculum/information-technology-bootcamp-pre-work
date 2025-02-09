@@ -12,25 +12,45 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Headline]"
+  friendlyName = "Information Technology Bootcamp Pre-Work"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  name = "information-technology-bootcamp-pre-work"
   type = "Lesson"
 }
 
 courses {
   new {
     // Do not remove this fallback course!
-    name = "fallback"
+    name = "itb"
+    isHeaderModuleNavShown = false
+    isFooterLessonNavShown = false
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.concepts
-      mls.microlesson01
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.microlesson02) {
-        type = "Level Up content"
-      }
+      mls.welcomeToGeneralAssembly
+      mls.setForSuccess
+      mls.bootcampMindset
+      mls.fearlessFeedbackCulture
+      mls.theLifeOfAnItProfessional
+      mls.problemSolving
+      mls.clearAndConfidentCommunication
+      mls.wrapUp
+    }
+  }
+  new {
+    // Do not remove this fallback course!
+    name = "fallback"
+    isHeaderModuleNavShown = false
+    isFooterLessonNavShown = false
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.welcomeToGeneralAssembly
+      mls.setForSuccess
+      mls.bootcampMindset
+      mls.fearlessFeedbackCulture
+      mls.theLifeOfAnItProfessional
+      mls.problemSolving
+      mls.clearAndConfidentCommunication
+      mls.wrapUp
     }
   }
 }

@@ -1,21 +1,25 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Information Technology Bootcamp Pre-Work</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module contains the pre-work lessons for the Information Technology Bootcamp. The pre-work is designed to help students prepare for the course by introducing them to the tools and concepts they will use throughout the course. Installfest is part of the pre-work process but is included in a separate module.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+|--------|:------------------:|--------|
+| [Welcome to General Assembly!](./welcome-to-general-assembly/README.md)            | 15 min | Discover General Assembly and the IT Bootcamp.                                                |
+| [Set for Success](./set-for-success/README.md)                                     | 20 min | Learn what you can do now and throughout the course to set yourself up for success.           |
+| [Bootcamp Mindset](./bootcamp-mindset/README.md)                                   | 20 min | Get into the right mental framework to tackle the challenges of the course.                   |
+| [Fearless Feedback Culture](./fearless-feedback-culture/README.md)                 | 10 min | Understand the culture of feedback at General Assembly.                                       |
+| [The Life of an IT Professional](./the-life-of-an-it-professional/README.md)       | 20 min | Learn about the daily life, possible career path, and responsibilities of an IT professional. |
+| [Problem-Solving](./problem-solving/README.md)                                     | 20 min | Understand systematic problem-solving.                                                        |
+| [Clear and Confident Communication](./clear-and-confident-communication/README.md) | 10 min | Learn how to start communicating effectively in a professional setting.                       |
+| [Wrap-Up](./wrap-up/README.md)                                                     |  5 min | Celebrate completing the pre-work.                                                            |
+| **Total content**                                                                  |   2 hr |                                                                                               |
 
 ## References
 
@@ -25,32 +29,12 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+- None
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/information-technology-bootcamp-pre-work/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/information-technology-bootcamp-pre-work/canvas-landing-pages/fallback.html)
 
 ### Resources
 

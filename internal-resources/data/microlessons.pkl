@@ -2,30 +2,58 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+welcomeToGeneralAssembly = new Template.Microlesson {
+  friendlyName = "Welcome to General Assembly"
+  dirName = "welcome-to-general-assembly"
   type = "Content"
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+setForSuccess = new Template.Microlesson {
+  friendlyName = "Set for Success"
+  dirName = "set-for-success"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+bootcampMindset = new Template.Microlesson {
+  friendlyName = "Bootcamp Mindset"
+  dirName = "bootcamp-mindset"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+fearlessFeedbackCulture = new Template.Microlesson {
+  friendlyName = "Fearless Feedback Culture"
+  dirName = "fearless-feedback-culture"
+  type = "Content"
+  videoUrl = ""
+}
+
+theLifeOfAnItProfessional = new Template.Microlesson {
+  friendlyName = "The Life of an IT Professional"
+  dirName = "the-life-of-an-it-professional"
+  type = "Content"
+  videoUrl = ""
+}
+
+problemSolving = new Template.Microlesson {
+  friendlyName = "Problem-Solving"
+  dirName = "problem-solving"
+  type = "Content"
+  videoUrl = ""
+}
+
+clearAndConfidentCommunication = new Template.Microlesson {
+  friendlyName = "Clear and Confident Communication"
+  dirName = "clear-and-confident-communication"
+  type = "Content"
+  videoUrl = ""
+}
+
+wrapUp = new Template.Microlesson {
+  friendlyName = "Wrap-Up"
+  dirName = "wrap-up"
   type = "Content"
   videoUrl = ""
 }

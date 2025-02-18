@@ -17,7 +17,7 @@ People with a *fixed mindset* believe that their abilities are fixed traits that
 - It's better to give up when things get hard to protect their ego or self-image.
 - Receiving negative feedback is a mark of intolerable failure.
 - The success of others is a threat to their self-worth.
-- **"I'm bad at this."**.
+- **"I'm bad at this."**
 
 Eventually, people with a fixed mindset stop showing up.
 

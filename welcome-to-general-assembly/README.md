@@ -7,13 +7,19 @@ We're thrilled you are joining us for the Information Technology Bootcamp (ITB)!
 
 ## Why is this pre-work important?
 
-This pre-work was designed primarily by gathering feedback from instructors teaching GA courses and students who have taken them. That feedback led us to create this pre-work so that you have the information past students wish they had known before starting the course. Your instructors will also appreciate you being familiar with some basics when you show up for the first day.
+Pre-work is an essential part of your student experience at GA. The reason you are doing this for three specific reasons:
 
-We think this information is so important that we require all students to complete pre-work before starting any bootcamp course.
+1. Prepare you for the content and rigor of your upcoming course
+2. Provide a baseline for you and your peers to launch your IT journey.
+3. Start familiarizing yourself with some basic lingo, to better prepare for day 1 of class.
 
-Don't worry; we won't take up too much of your time. This pre-work will take about five hours to complete, and you'll spend a good portion of that installing software and setting up your device.
+If it feels a bit confusing or difficult along the way, that's ok, because you're already learning! Don't worry too much about how you perform on the pre-work. What matters most is that you complete the pre-work.
 
 > 😎 We'll expect you to have a basic understanding of everything covered in the pre-work before day one of the course, but we won't expect you to be an expert.
+
+Completing pre-work ensures that you and your instructional team can hit the ground running on day 1 and get the most out of your program! Our data shows that students who complete the pre-work are much more likely to succeed in the class overall.
+
+Don't worry; we won't take up too much of your time. This pre-work will take about five hours to complete, and you'll spend a good portion of that installing software and setting up your device.
 
 ## What can I expect when taking a course at General Assembly?
 

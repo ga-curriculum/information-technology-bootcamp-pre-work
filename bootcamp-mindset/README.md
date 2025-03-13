@@ -32,7 +32,7 @@ Most importantly, they show up consistently and put in the effort they can.
 
 ![Consistency](./assets/consistency.png)
 
-Most people don't have a purely fixed or growth mindset. After all, many things someone with a purely fixed mindset would believe are immediately disproven. After all, you weren't born with the ability to read, write, or do math. What you want to strive to do is recognize when you slip into a fixed mindset and work to shift your thinking back to a growth mindset.
+Most people don't have a purely fixed or growth mindset. Many things someone with a purely fixed mindset would believe are immediately disproven. After all, you weren't born with the ability to read, write, or do math. What you want to strive to do is recognize when you slip into a fixed mindset and work to shift your thinking back to a growth mindset.
 
 This can take practice and requires self-awareness of your emotions and thoughts. When you recognize that you're thinking in a fixed way, challenge those thoughts. When you're avoiding challenges, push yourself to embrace them.
 

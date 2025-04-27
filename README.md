@@ -5,6 +5,8 @@
 
 ## About
 
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER MAY 1, 2026. You are likely looking for [this repo](https://git.generalassemb.ly/modular-curriculum-all-courses/information-technology-pre-work) instead.
+
 This module contains the pre-work lessons for the Information Technology Bootcamp. The pre-work is designed to help students prepare for the course by introducing them to the tools and concepts they will use throughout the course. Installfest is part of the pre-work process but is included in a separate module.
 
 ## Content
